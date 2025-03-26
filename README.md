@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anu-Ashokan-Srambickal
-- 👀 I’m interested in Data Story-telling.
+- 👀 I’m interested in Data Story-Telling.
 - 🌱 I’m currently learning Data Analytics and documenting my journey.
 - 💞️ I’m looking to collaborate on Data Analytics projects, Interships and otherwise.
 - 📫 How to reach me anu60077@gmail.com
